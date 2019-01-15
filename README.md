@@ -1,2 +1,2 @@
 # ACIPySpark
-Alchemist-Client Interface for PySpark
+Future repository for the PySpark for Alchemist
